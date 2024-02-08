@@ -47,3 +47,12 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+/*
+ * Global Styles
+ *
+ */
+
+body {
+  font-family: "Roboto", sans-serif;
+}
